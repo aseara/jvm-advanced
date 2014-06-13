@@ -1,6 +1,6 @@
 /**
  * Created with IntelliJ IDEA.
- * VM 参数 -verbose:gc -Xms20M -Xmx20M -Xmn10M -XX:+PrintGCDetails -XX:SurvivorRatio=8
+ * VM 参数 -verbose:gc -Xms20M -Xmx20M -Xmn10M -XX:+UseSerialGC -XX:+PrintGCDetails -XX:SurvivorRatio=8
  *
  * User: aseara
  * Date: 2014/6/11
